@@ -27,3 +27,34 @@
 - 🧑‍💼 User management with skill-based filtering (e.g., find employees by their competencies)
 - ✅ Robust form validation using Zod
 - 🎨 Modern UI with shadcn/ui & Tailwind
+
+---
+
+## 🔒 Security
+- 🚫 **SQL Injection protection** – all database queries are handled via Prisma ORM
+- 🛡️ **CSRF protection** – NextAuth handles anti-CSRF tokens automatically during authentication
+- ✋ **Rate limiting** on API endpoints to prevent brute-force attacks
+- 🧼 **XSS protection** – user input sanitized and validated with Zod; rich text editor restricted to safe HTML
+- 🔑 **Secure sessions** – JWT-based sessions with HttpOnly cookies
+- 🔐 **Access control** – role- and department-based authorization for folders and instructions
+
+---
+
+## 🛠️ Tech Stack
+- **Frontend**: Next.js 14, React, TypeScript, Tailwind, shadcn/ui
+- **Backend**: Prisma ORM, MySQL (Supabase), NextAuth
+- **Other**: Cloudinary (image storage), WeatherAPI (integration)
+
+---
+
+## 📸 Screenshots
+<p align="center">
+  <img src="https://your-screenshot-link1.png" alt="Dashboard Screenshot" width="700" />
+</p>
+
+<p align="center">
+  <img src="https://your-screenshot-link2.png" alt="Editor Screenshot" width="700" />
+</p>
+
+
+
