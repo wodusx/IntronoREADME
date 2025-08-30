@@ -39,7 +39,7 @@
 
 ## 🛠️ Tech Stack
 - **Frontend**: Next.js 14, React, TypeScript, Tailwind, shadcn/ui
-- **Backend**: Prisma ORM, MySQL (Supabase), NextAuth
+- **Backend**: Prisma ORM, Supabase, NextAuth
 - **Other**: Cloudinary (image storage), WeatherAPI (integration)
 
 
