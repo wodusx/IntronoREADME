@@ -49,39 +49,39 @@
 </p>
 
 <p align="center">
-  <img src="assets/sign_up.png" alt="Sign up Screenshot" width="700" />
+  <img src="assets/sign_up.png" alt="Sign up Screenshot" width="1000" />
 </p>
 
 <p align="center">
-  <img src="assets/dashboard.png" alt="Dashboard Screenshot" width="700" />
+  <img src="assets/dashboard.png" alt="Dashboard Screenshot" width="1000" />
 </p>
 
 <p align="center">
-  <img src="assets/employees.png" alt="Employees Screenshot" width="700" />
+  <img src="assets/employees.png" alt="Employees Screenshot" width="1000" />
 </p>
 
 <p align="center">
-  <img src="assets/employees.png" alt="Employees Screenshot" width="700" />
+  <img src="assets/employees.png" alt="Employees Screenshot" width="1000" />
 </p>
 
 <p align="center">
-  <img src="assets/add_instruction.png" alt="Add Instruction Screenshot" width="700" />
+  <img src="assets/add_instruction.png" alt="Add Instruction Screenshot" width="1000" />
 </p>
 
 <p align="center">
-  <img src="assets/user_config.png" alt="User Config Screenshot" width="700" />
+  <img src="assets/user_config.png" alt="User Config Screenshot" width="1000" />
 </p>
 
 <p align="center">
-  <img src="assets/admin_panel.png" alt="Admin Panel Screenshot" width="700" />
+  <img src="assets/admin_panel.png" alt="Admin Panel Screenshot" width="1000" />
 </p>
 
 <p align="center">
-  <img src="assets/searchbox.png" alt="Searchbox Screenshot" width="700" />
+  <img src="assets/searchbox.png" alt="Searchbox Screenshot" width="1000" />
 </p>
 
 <p align="center">
-  <img src="assets/mobile.png" alt="Mobile Screenshot" width="700" />
+  <img src="assets/mobile.png" alt="Mobile Screenshot" width="400" />
 </p>
 
 
