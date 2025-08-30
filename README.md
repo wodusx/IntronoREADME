@@ -11,7 +11,7 @@
 <p align="center">
   A fullstack demo project showcasing <b>Next.js 14, Prisma, MySQL, NextAuth, Cloudinary, and shadcn/ui</b>.  
   <br />
-  <a target="_blank" href="https://introno-demo.vercel.app/"><strong>🔗 Live Demo</strong></a> (password-protected)  
+  <a href="https://introno-demo.vercel.app/" target="_blank"><strong>🔗 Live Demo</strong></a> (password-protected)  
   <br />
   <sub>Request access via email or LinkedIn</sub>
 </p>
