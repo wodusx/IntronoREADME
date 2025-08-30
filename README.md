@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://your-logo-link.png" alt="Project Logo" width="120" />
+  <img src="assets/logo_blue.png" alt="Project Logo" width="120" />
 </p>
 
 <h1 align="center">Intranet for E-commerce Companies</h1>
