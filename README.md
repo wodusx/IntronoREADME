@@ -9,7 +9,7 @@
 <h1 align="center">Intranet for E-commerce Companies</h1>
 
 <p align="center">
-  A fullstack demo project built with **Next.js 15, Prisma, Supabase, NextAuth, Cloudinary, and shadcn/ui**.
+  A fullstack demo project built with <b>Next.js 15, Prisma, Supabase, NextAuth, Cloudinary, and shadcn/ui</b>.
   <br />
   <a href="https://introno-demo.vercel.app/" target="_blank"><strong>🔗 Live Demo</strong></a> (password-protected)  
   <br />
