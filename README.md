@@ -20,7 +20,7 @@
 ## ✨ Features
 - 📂 Folder & department-based access control
 - 📝 Rich text editor for creating detailed work instructions (Tiptap + Cloudinary)
-- 🔢 Step-by-step instruction builder (with attachments, no rich text)
+- 🔢 Step-by-step instruction builder (with attachments)
 - 🔒 Authentication with NextAuth (JWT sessions, Google login)
 - 📊 Infinite scroll & advanced search for logs/news
 - 🧑‍💼 User management with skill-based filtering (e.g., find employees by their competencies)
