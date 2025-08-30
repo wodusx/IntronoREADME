@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="assets/logo_blue.png" alt="Project Logo" width="120" />
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/logo.png">
+  <source media="(prefers-color-scheme: light)" srcset="assets/logo_blue.png">
+  <img alt="Logo" src="assets/logo_blue.png" width="120">
+</picture>
 </p>
 
 <h1 align="center">Intranet for E-commerce Companies</h1>
