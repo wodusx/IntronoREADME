@@ -45,11 +45,11 @@
 
 ## 📸 Screenshots
 <p align="center">
-  <img src="https://your-screenshot-link1.png" alt="Dashboard Screenshot" width="700" />
+  <img src="assets/landing_page.png" alt="Landing Page Screenshot" width="700" />
 </p>
 
 <p align="center">
-  <img src="https://your-screenshot-link2.png" alt="Editor Screenshot" width="700" />
+  <img src="assets/sign_up.png" alt="Sign up Screenshot" width="700" />
 </p>
 
 
