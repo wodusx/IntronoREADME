@@ -16,7 +16,6 @@
   <sub>Request access via email or LinkedIn</sub>
 </p>
 
----
 
 ## ✨ Features
 - 📂 Folder & department-based access control
@@ -28,7 +27,6 @@
 - ✅ Robust form validation using Zod
 - 🎨 Modern UI with shadcn/ui & Tailwind
 
----
 
 ## 🔒 Security
 - 🚫 **SQL Injection protection** – all database queries are handled via Prisma ORM
@@ -38,14 +36,12 @@
 - 🔑 **Secure sessions** – JWT-based sessions with HttpOnly cookies
 - 🔐 **Access control** – role- and department-based authorization for folders and instructions
 
----
 
 ## 🛠️ Tech Stack
 - **Frontend**: Next.js 14, React, TypeScript, Tailwind, shadcn/ui
 - **Backend**: Prisma ORM, MySQL (Supabase), NextAuth
 - **Other**: Cloudinary (image storage), WeatherAPI (integration)
 
----
 
 ## 📸 Screenshots
 <p align="center">
