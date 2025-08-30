@@ -61,10 +61,6 @@
 </p>
 
 <p align="center">
-  <img src="assets/employees.png" alt="Employees Screenshot" width="1000" />
-</p>
-
-<p align="center">
   <img src="assets/add_instruction.png" alt="Add Instruction Screenshot" width="1000" />
 </p>
 
